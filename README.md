@@ -1,2 +1,2 @@
 # topocor
-Scripts for topographic correction of satellite images
+Implements topographic correction of satellite images.
