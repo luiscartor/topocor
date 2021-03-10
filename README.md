@@ -1,2 +1,2 @@
 # topocor
-Implements topographic correction of satellite images.
+The topocor_minnaert.py script implements topographic correction of satellite images using 
